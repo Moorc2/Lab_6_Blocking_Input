@@ -55,7 +55,5 @@ public class RectangleInfo {
         System.out.printf("Area: %.2f\n", area);
         System.out.printf("Perimeter: %.2f\n", perimeter);
         System.out.printf("Diagonal: %.2f\n", diagonal);
-
-        in.close();
     }
 }
