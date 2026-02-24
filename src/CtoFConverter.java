@@ -1,3 +1,9 @@
+// Program that converts C to F and indicates when its freezing or boiling
+// First ask for a temperature
+// convert temp from C to F using (C x (9/5) + 32
+// If celsius is 0 it freezing, if its 100 its boiling
+// output using Ifs, else input is not valid
+
 import java.util.Scanner;
 
 public class CtoFConverter {
